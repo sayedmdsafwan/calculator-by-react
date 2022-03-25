@@ -5,8 +5,8 @@ const Main = () => {
     return (
         <div className="calculator-grid">
             <div className="output">
-                <div className="previous-operant"></div>
-                <div className="current-operant"></div>
+                <div className="previous-operant">135,151</div>
+                <div className="current-operant">146,146</div>
             </div>
             <button className="span-two">AC</button>
             <button>DEL</button>
